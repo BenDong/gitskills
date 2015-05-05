@@ -1,1 +1,3 @@
 test for branch  and this is for resolve.
+testing for branch and creating a new branch is quick and simple
+
